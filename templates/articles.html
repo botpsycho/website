@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">{{ section.title }}</h1>
+<div id="blog-list"> 
+  {% for page in section.pages %}
+  <div id="blog-summary"> 
+    <h3><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h3>
+    <small class="subtitle">{{ page.date }}</small>
+  </div>
+  {% endfor %}
+</div>
+{% endblock content %}
