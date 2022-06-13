@@ -11,6 +11,8 @@ page_template = "page.html"
 - Reddit: *pkzander*
 - Github: *botpsycho*
 - Gitlab: *botpsycho*
+- Lichess: Dr_Magician
+- Chess.com: Dr_Magician
 
 ## Please don't annoy me
 - Don't ask about issues you are getting in your system.
