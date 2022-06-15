@@ -7,7 +7,7 @@ page_template = "page.html"
 ## Contacts
 - Email: **pkzander@protonmail.com**
 - Matrix: *botpsycho*
-- Discord: *botpsycho*
+- Discord: *botpsycho#4121*
 - Reddit: *pkzander*
 - Github: *botpsycho*
 - Gitlab: *botpsycho*
@@ -18,5 +18,4 @@ page_template = "page.html"
 - Don't ask about issues you are getting in your system.
 - If you don't want conversation, just use email.
 - I read all my emails, so don't resend same stuff again.
-- Please be patient, sometimes I get lot of messages.
 - Don't mind if I fail to respond. I miss sometimes.

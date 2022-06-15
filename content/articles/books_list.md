@@ -2,7 +2,7 @@
 title = "Book List"
 +++
 
-This is the list of books that I have already read, plan to read in the future and currently reading.
+This is the list of books that I have already read, plan to read in future and currently reading.
 
 ### Reading:
 
@@ -28,11 +28,11 @@ This is the list of books that I have already read, plan to read in the future a
 
 * Why we sleep (Matthew Walker)
 
-* Ghost in the wires (Kevin Mitnick and William L. Simon)
+* Ghost in the wires (Kevin Mitnick)
 
 * The art of intrusion (Kevin Mitnick)
 
-* The art of deception (Kevin Mitnick and William L. Simon)
+* The art of deception (Kevin Mitnick)
 
 * Harry Potter Series (J. K. Rowling)
 
@@ -43,3 +43,5 @@ This is the list of books that I have already read, plan to read in the future a
 * Do Epic Shit (Ankur Waikoo)
 
 * The courage to be disliked (Fumitake Koga and Ichiro Kishimi)
+
+* Rich dad poor dad (Robert Kiyosaki)

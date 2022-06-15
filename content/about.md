@@ -4,7 +4,7 @@ page_template = "page.html"
 +++
 
 ## Who am I?
-I am just a guy who loves tech. My internet identity is botpsycho. I like to experiment with different softwares. I am also free and open source software lover. 
+I am just a guy who loves tech. My internet identity is botpsycho. I like to experiment and tinker with different softwares. I am also a free and open source software lover. 
 
 ## Hobbies:
 
@@ -13,9 +13,6 @@ I am just a guy who loves tech. My internet identity is botpsycho. I like to exp
 * Learning about different softwares
 * Reading self help books
 * Playing chess
-* Learning about different softwares
-* Playing chess
-
 ________________________________________
 
 ## These are my Skills
@@ -27,8 +24,3 @@ ________________________________________
 * Pyhon
 * C
 * Bash
-________________________________________
-
-
-
-
