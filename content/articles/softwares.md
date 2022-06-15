@@ -6,7 +6,7 @@ When it comes to softwares I try my best to use free and open source softwares. 
 
 ### These are my choices:
 
-* Operating System - I use <span style="color:blue;">linux</span>. Its just great. Highly customizable, secure and stable. Free BSD is also good but the only problem is software availability. Some softwares which are not meant for linux can still be somehow used by wine and linux also has a good availability of software itself. So thats maily why I chose linux over Free BSD.
+* Operating System - I use <span style="color:blue;">linux</span>. Its just great. Highly customizable, secure and stable. Free BSD is also good but the only problem is software availability. Some softwares which are not meant for linux can still be somehow used by wine and linux also has a good availability of software itself. So thats maily why I chose linux over Free BSD. BTW I use <span style="color:blue;">archlinux</span>
 
 * Web Browser - Unfortunately when it comes to web browsers we don't have any great options. The one I use is <span style="color:blue;">Brave</span>. Its a okay browser. Its far more better than Google chrome and Microsoft edge browser.
 
