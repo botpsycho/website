@@ -6,14 +6,18 @@ This is the list of books that I have already read, plan to read in future and c
 
 ### Reading:
 
-* Atomic habits
+* Digital Minimalism
+
+* Deep work
 
 
 ### Already read
 
 * Around the world in 80 days
 
-   
+* Atomic habits
+
+
 ### Plan to read in the future
 
 * Deep Work (Cal Newport)
