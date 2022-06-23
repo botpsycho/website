@@ -49,3 +49,19 @@ This is the list of books that I have already read, plan to read in future and c
 * The courage to be disliked (Fumitake Koga and Ichiro Kishimi)
 
 * Rich dad poor dad (Robert Kiyosaki)
+
+* Tuesdays with Morrie (Mitch Albom)
+
+* The subttle art of not giving a f*ck (Mark Manson)
+
+* Linchpin: Are you indispensible? (Seth Godin)
+
+* Start with why (Simon Sinek)
+
+* Mindset (Carol Dweck)
+
+* Ikigai (Francesc Miralles and Hector Garcia)
+
+* How to win friends and influence people (Dale Carnegie)
+
+* Quit: The power of introverts (Susan Cain)
