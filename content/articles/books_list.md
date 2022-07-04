@@ -6,16 +6,18 @@ This is the list of books that I have already read, plan to read in future and c
 
 ### Reading:
 
-* Digital Minimalism
+* Digital Minimalism (Cal Newport)
 
-* Deep work
+* Ghost in the wires (Kevin Mitnick)
 
 
 ### Already read
 
-* Around the world in 80 days
+* Around the world in 80 days (Jules Verne and Peter Holeinone)
 
-* Atomic habits
+* Atomic habits (James Clear)
+
+* The Alchemist (Paulo Coelho)
 
 
 ### Plan to read in the future
@@ -31,8 +33,6 @@ This is the list of books that I have already read, plan to read in future and c
 * The unfair advantage (Ash Ali and Hasan Kubba)
 
 * Why we sleep (Matthew Walker)
-
-* Ghost in the wires (Kevin Mitnick)
 
 * The art of intrusion (Kevin Mitnick)
 
