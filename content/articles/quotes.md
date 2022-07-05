@@ -2,8 +2,6 @@
 title = "Quotes that I like"
 +++
 
-### Quotes
-
 > ***Life is hard enough if you make good decisions, but if you make bad ones, it gets even harder.***
 > 
 
