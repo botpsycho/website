@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://botpsycho.netlify.com/sitemap.xml
