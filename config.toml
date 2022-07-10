@@ -3,7 +3,7 @@ base_url = "https://botpsycho.netlify.com"
 generate_feed = true
 compile_sass = false
 default_language = "en"
-#build_search_index = true
+build_search_index = true
 
 [markdown]
 highlight_code = true
