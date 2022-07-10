@@ -1,10 +1,10 @@
-function randomNumber(min, max) { 
+function randomNumber(min, max) {
     return Math.floor(Math.random() * (max - min) + min);
-} 
+}
 
 function getRandomImage() {
     path = '/pics/'
-    var num = randomNumber(1000, 1194);
+    var num = randomNumber(1000, 1035);
     var img = path + num + '.jpg';
     return img;
 }
@@ -17,5 +17,3 @@ document.addEventListener('DOMContentLoaded', (event) => {
 	gal.appendChild(img);
     }
 });
-
-
