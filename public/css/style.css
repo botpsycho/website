@@ -2,7 +2,7 @@
 
 :root {
     --fg-color:#ffffff;
-    --bg-color:#bf9b82;
+    --bg-color:#6d4d38;
     --color00: #E1578A;
     --color01: #FF69EB;
     --color02: #FF86C8;
@@ -63,7 +63,7 @@ header h1{
 }
 
 header h1 span{
-    color: purple;
+    color: black;
 }
 
 /** Image Gallery **/
