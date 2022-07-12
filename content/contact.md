@@ -14,6 +14,8 @@ page_template = "page.html"
 - Lichess: Dr_Magician
 - Chess.com: Dr_Magician
 
+**If you want to visit my second website click [here](https://botpsycho.github.io "Second website")**
+
 ## Please don't annoy me
 - Don't ask about issues you are getting in your system.
 - If you don't want conversation, just use email.
